@@ -16,4 +16,4 @@ eureka:
     service-url:
       default-zone: http://localhost:8761/eureka
 remote:
-  url: http://servicio-productos/productos/
+  url: htpp://servicio-productos/productos/
